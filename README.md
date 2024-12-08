@@ -45,16 +45,6 @@ The task is to identify all cycles in a directed graph using two different trave
 
 ---
 
-## Key Differences Between BFS and DFS
-| **Feature**          | **BFS**                              | **DFS**                              |
-|-----------------------|--------------------------------------|--------------------------------------|
-| **Traversal Method**  | Iterative (queue-based).             | Recursive (stack-based).             |
-| **Cycle Detection**   | Checks if a neighbor is in the path. | Checks if a node is in the recursion stack. |
-| **Space Complexity**  | \(O(V)\)                            | \(O(V)\)                            |
-| **Use Case**          | Best for shallow graphs.            | Best for deeper graphs.              |
-
-
-
 
 ### Presentation powerpoint Slides
 - https://waynestateprod-my.sharepoint.com/:p:/g/personal/hg9512_wayne_edu/ETIUk5ANM_JPicjfWYintEIBe1Tzj7LpT2ENJyFzT-ZXMQ?e=x5SPlC

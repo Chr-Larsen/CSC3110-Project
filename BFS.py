@@ -1,4 +1,4 @@
-#Deboshree Chowdhury & Christian Larsen 
+
 
 import numpy as np
 from collections import deque
